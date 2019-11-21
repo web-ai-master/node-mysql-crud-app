@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/dinushchathurya/node-mysql-crud-app/issues"
   },
-  "homepage": "https://github.com/dinushchathurya/node-mysql-crud-app#readme"
+  "homepage": "https://github.com/dinushchathurya/node-mysql-crud-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
 }
