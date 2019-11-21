@@ -1,0 +1,22 @@
+{
+  "name": "mysql-crud-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinushchathurya/node-mysql-crud-app.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Dinush Chathurya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dinushchathurya/node-mysql-crud-app/issues"
+  },
+  "homepage": "https://github.com/dinushchathurya/node-mysql-crud-app#readme"
+}
